@@ -1,6 +1,8 @@
 ---
-description: Fix Gradle build errors for Android and KMP projects
+name: gradle-build-command
+description: Fix Gradle build and compilation errors for Android and Kotlin Multiplatform projects.
 ---
+
 
 # Gradle Build Fix
 
